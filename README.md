@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rutvik Taraviya</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rutvik2004&label=Profile%20views&color=0e75b6&style=flat" alt="rutvik2004" /> </p>
 
-- 🔭 I’m currently working on [online_hair_cutting_booking_syatem](https://devpost.com/software/online-hair-cut-booking-system)
+- 🔭 I’m currently working on [online_hair_cutting_booking_system](https://devpost.com/software/online-hair-cut-booking-system)
 
 - 🌱 I’m currently learning **c++ , web devlopment , competitive programming.**
 
